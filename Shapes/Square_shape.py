@@ -1,5 +1,5 @@
 #Making square shape using turtle
-#Programmed by Marufur Rahman
+#Programmed by Marufur Rahman.
 
 import turtle
 
